@@ -1,2 +1,2 @@
 # Indiangram
-Instagram clone with NOCODE
+Instagram clone with NOCODE using Adalo 
